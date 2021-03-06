@@ -90,17 +90,19 @@ logo = """
                                                                          
                                                                          
 
-Telegram@F_O_U_R
+Telegram : @ONLY kUrD
+
+Telegram Group : https://t.me/joinchat/SfjW_jI2R1t4auvo
 
 ____________________________________"""
 logo2 = """
 
-AUthor:cracker
+AUthor : Lawan
 
 
 _______________________________________"""
-CorrectUsername = 'shex'
-CorrectPassword = 'shex'
+CorrectUsername = 'Lawan'
+CorrectPassword = 'Cracker'
 os.system('clear')
 print logo2
 loop = 'true'
